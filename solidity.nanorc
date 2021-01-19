@@ -29,4 +29,4 @@ color cyan "\<([0-9]+|0x[0-9A-Fa-f]+)\>"
 
 color brightgreen "\<(true|false|null|undefined)\>"
 
-color brightblue "<\(keccak256|abi|encode)\>"
+color brightblue "<\(abi\.decode|abi\.encodeWithSignature|abi\.encode|abi\.encodePacked|abi\.encodeWithSelector)\>"
