@@ -5,8 +5,8 @@
 
 on my terminal configuration:
 
-[image](./screenshot.png)
+![image](./screenshot.png)
 
 where the colors are as so:
 
-[image2](./terminal-colors.png)
+![image2](./terminal-colors.png)
