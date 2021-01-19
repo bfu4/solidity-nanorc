@@ -1,5 +1,5 @@
 # solidity-nanorc
-*nano configuration for solidity*
+*nano configuration for [solidity](https://github.com/ethereum/solidity)*
 
 ### what does this look like?
 
